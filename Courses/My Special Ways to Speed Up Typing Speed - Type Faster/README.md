@@ -14,4 +14,4 @@ Certificate Code No. - UC-c1afaec9-0047-421d-be27-7b47c8e900ed
 
 [Verify Here](https://www.udemy.com/certificate/UC-c1afaec9-0047-421d-be27-7b47c8e900ed/)
 
-![Certificate-Image](https://udemy-certificate.s3.amazonaws.com/image/UC-c1afaec9-0047-421d-be27-7b47c8e900ed.jpg?v=1590758022000)
+![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/My%20Special%20Ways%20to%20Speed%20Up%20Typing%20Speed%20-%20Type%20Faster/UC-c1afaec9-0047-421d-be27-7b47c8e900ed.jpg)
