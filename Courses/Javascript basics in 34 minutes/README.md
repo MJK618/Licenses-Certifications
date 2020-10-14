@@ -14,4 +14,4 @@ Certificate Code No. - UC-43a21787-7892-439b-b7ed-5480f1f2a64b
 
 [Verify Here](https://www.udemy.com/certificate/UC-43a21787-7892-439b-b7ed-5480f1f2a64b/)
 
-![Certificate-Image](https://udemy-certificate.s3.amazonaws.com/image/UC-43a21787-7892-439b-b7ed-5480f1f2a64b.jpg?v=1591972218000)
+![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Javascript%20basics%20in%2034%20minutes/UC-43a21787-7892-439b-b7ed-5480f1f2a64b.jpg)
