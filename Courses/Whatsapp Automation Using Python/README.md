@@ -14,4 +14,4 @@ Certificate Code No. - UC-de7acc2b-d369-475d-b349-cd5d0a4697d7
 
 [Verify Here](https://www.udemy.com/certificate/UC-de7acc2b-d369-475d-b349-cd5d0a4697d7/)
 
-![Certificate-Image](https://udemy-certificate.s3.amazonaws.com/image/UC-de7acc2b-d369-475d-b349-cd5d0a4697d7.jpg?v=1590425396000)
+![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Whatsapp%20Automation%20Using%20Python/UC-de7acc2b-d369-475d-b349-cd5d0a4697d7.jpg)
