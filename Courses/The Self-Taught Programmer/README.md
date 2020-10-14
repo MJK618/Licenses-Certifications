@@ -15,4 +15,4 @@ Certificate Code No. - UC-67a9f79a-f4c4-438a-bb80-d5f244a269cc
 
 [Verify Here](https://www.udemy.com/certificate/UC-67a9f79a-f4c4-438a-bb80-d5f244a269cc/)
 
-![Certificate-Image](https://udemy-certificate.s3.amazonaws.com/image/UC-67a9f79a-f4c4-438a-bb80-d5f244a269cc.jpg?v=1590504099000)
+![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/The%20Self-Taught%20Programmer/UC-67a9f79a-f4c4-438a-bb80-d5f244a269cc.jpg)
