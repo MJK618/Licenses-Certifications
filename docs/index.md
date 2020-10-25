@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+Course Title | Certifcate 
+------------ | -------------
+[Analyze Data with Python](https://www.codecademy.com/learn/paths/analyze-data-with-python) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Analyze%20Data%20with%20Python/Analyze%20Data%20with%20Python-1.png)
+[Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) |![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Automate%20the%20Boring%20Stuff%20with%20Python%20Programming/Automate%20The%20Boring%20Stuff%20with%20Pyhton.jpg)
+[Bootstrap and PHP Blog Tutorial Step by Step](https://www.bitdegree.org/course/php-blog-tutorial) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Bootstrap%20and%20PHP%20Blog%20Tutorial%20Step%20by%20Step/bitdegree-certificate-875283%20(3)-1.png)
+[How to Transform Tables with SQL](https://www.codecademy.com/learn/sql-table-transformation) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/How%20To%20Transform%20Tables%20with%20SQL/How%20To%20Transform%20Tables%20with%20SQL1024_1.png)
+[Introducing Coding for Beginners: an HTML and CSS Online Course](https://www.bitdegree.org/user/course/coding-for-beginners-space-doggos) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Introducing%20Coding%20for%20Beginners%20an%20HTML%20and%20CSS%20Online%20Course/bitdegree-certificate-875283%20(2)-1.png)
+[Javascript basics in 34 minutes](https://www.udemy.com/course/basics-of-javascript-programming-language/) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Javascript%20basics%20in%2034%20minutes/UC-43a21787-7892-439b-b7ed-5480f1f2a64b.jpg)
+[Learn Data Analysis with Pandas Course](https://www.codecademy.com/learn/data-processing-pandas) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Learn%20Data%20Analysis%20with%20Pandas%20Course/Learn%20Data%20Analysis%20with%20Pandas%20Course-1.png)
+[Learn How to Use Tumblr Tumblr Marketing Strategy for Monetization](https://www.bitdegree.org/course/how-to-use-tumblr) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Learn%20How%20to%20Use%20Tumblr%20Tumblr%20Marketing%20Strategy%20for%20Monetization/bitdegree-certificate-875283-1.png)
+[Learn R Course](https://www.codecademy.com/learn/learn-r) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Learn%20R/Learn%20R-1.png)
+[Learn Web Scraping with Beautiful Soup Course](https://www.codecademy.com/learn/learn-web-scraping) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Learn%20Web%20Scraping%20with%20Beautiful%20Soup%20Course/Learn%20Web%20Scraping%20with%20Beautiful%20Soup%20Course-1.png)
+[Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Learn%20the%20Command%20Line%20Course/Learn%20the%20Command%20Line%20Course-1.png)
+[Learn to Code in Python 3: Programming beginner to advanced](https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Learn%20to%20Code%20in%20Python%203%20Programming%20beginner%20to%20advanced/UC-69496bd5-331e-48a9-a136-734cf18ea4e3.jpg)
+[My Special Ways to Speed Up Typing Speed - Type Faster](https://www.udemy.com/course/typing-faster-methods/) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/My%20Special%20Ways%20to%20Speed%20Up%20Typing%20Speed%20-%20Type%20Faster/UC-c1afaec9-0047-421d-be27-7b47c8e900ed.jpg)
+[PHP Facebook Messenger Bot](https://www.bitdegree.org/user/course/php-facebook-messenger-bot) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/PHP%20Facebook%20Messenger%20Bot/bitdegree-certificate-875283%20(1)-1.png)
+[Python (Basic)](https://www.hackerrank.com/skills-verification/python_basic) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Python%20Basic/Python%20Basic.png) 
+[The Art of Doing: Code 40 Challenging Python Programs Today!](https://www.udemy.com/course/the-art-of-doing/) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/The%20Art%20of%20Doing%20Code%2040%20Challenging%20Python%20Programs%20Today!/UC-8cc771d4-a77a-45d2-be3a-48df845aeba5.jpg)
+[The Self-Taught Programmer](https://www.udemy.com/course/self-taught-programmer/) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/The%20Self-Taught%20Programmer/UC-67a9f79a-f4c4-438a-bb80-d5f244a269cc.jpg)
+[Whatsapp Automation Using Python](https://www.udemy.com/course/whatsapp-automation/) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Whatsapp%20Automation%20Using%20Python/UC-de7acc2b-d369-475d-b349-cd5d0a4697d7.jpg)
 
-You can use the [editor on GitHub](https://github.com/MJK618/Licenses-Certifications/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MJK618/Licenses-Certifications/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
