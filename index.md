@@ -1,6 +1,6 @@
 Course Title | Certifcate 
 ------------ | -------------
-[Analyze Data with Python](https://www.codecademy.com/learn/paths/analyze-data-with-python) | ![Certificate-Image](../Courses/Analyze%20Data%20with%20Python/Analyze%20Data%20with%20Python-1.png)
+[Analyze Data with Python](https://www.codecademy.com/learn/paths/analyze-data-with-python) | ![Certificate-Image](./Courses/Analyze%20Data%20with%20Python/Analyze%20Data%20with%20Python-1.png)
 [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) |![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Automate%20the%20Boring%20Stuff%20with%20Python%20Programming/Automate%20The%20Boring%20Stuff%20with%20Pyhton.jpg)
 [Bootstrap and PHP Blog Tutorial Step by Step](https://www.bitdegree.org/course/php-blog-tutorial) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/Bootstrap%20and%20PHP%20Blog%20Tutorial%20Step%20by%20Step/bitdegree-certificate-875283%20(3)-1.png)
 [How to Transform Tables with SQL](https://www.codecademy.com/learn/sql-table-transformation) | ![Certificate-Image](https://github.com/MJK618/Licenses-Certifications/blob/master/Courses/How%20To%20Transform%20Tables%20with%20SQL/How%20To%20Transform%20Tables%20with%20SQL1024_1.png)
